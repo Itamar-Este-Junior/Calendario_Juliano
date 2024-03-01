@@ -26,9 +26,9 @@
             var x3 = (367*(num2-2-12*x0))/12;
             var x5 = (num1+4900+x0)/100;
             var x6= (3*x5/4);
-            var x7= x1+x3-x6+num2-32075
+            var x7= (x1+x3-x6+num2-32075);
                     // Mostrar a soma:
-            document.getElementById("sum").innerText = "A distância em metros eh: " + sum4;
+            document.getElementById("sum").innerText = "A distância em metros eh: " + x7;
           });
       }
       verificaCampo();
