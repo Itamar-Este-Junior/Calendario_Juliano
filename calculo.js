@@ -35,10 +35,10 @@
             var x6= (3*x5/4);
             var x7= (x1+x3-x6+num2-32075);
                     // Mostrar a soma:
-            document.getElementById("sum").innerText = "A Data Juliano eh: " + x7;
-        }}
-    
-        verificaCampo ();
+            document.getElementById("sum").innerText = "A distância em metros eh: " + x7;
+          })}
+                
+        verificaCampo();
         </script>
       </body>
     </html>
