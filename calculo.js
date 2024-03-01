@@ -1,4 +1,11 @@
-    <label>Ano Atual:</label>
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>Relatividade Restrita</title>
+  </head>
+  <body>
+<label>Ano Atual:</label>
     <input id="num-1" type="number" />
     <label> Mês Atual:</label>
     <input id="num-2" type="number" />
