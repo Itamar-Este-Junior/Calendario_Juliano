@@ -1,16 +1,16 @@
-<!DOCTYPE html>
+!DOCTYPE>
 <html>
   <head>
     <meta charset="utf-8" />
     <title>Relatividade Restrita</title>
   </head>
   <body>
-<label>Ano Atual:</label>
-    <input id="num-1" type="number" />
+  <label>Ano Atual:</label>
+    <input id="num-1" type="number" />;
     <label> Mês Atual:</label>
-    <input id="num-2" type="number" />
+    <input id="num-2" type="number" />;
     <label>Dia Atual:</label>
-    <input id="num-3" type="number" />
+    <input id="num-3" type="number" />;
     <button id="calc-sum">Calcular </button>
     <div id="sum"></div>
 
@@ -36,9 +36,9 @@
             var x7= (x1+x3-x6+num2-32075);
                     // Mostrar a soma:
             document.getElementById("sum").innerText = "A distância em metros eh: " + x7;
-          });
-      }
-      verificaCampo();
-    </script>
-  </body>
-</html>
+        }}
+    
+        verificaCampo ();
+        </script>
+      </body>
+    </html>
